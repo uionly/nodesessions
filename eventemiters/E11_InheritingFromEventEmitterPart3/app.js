@@ -8,4 +8,4 @@ greeter1.on('greet', function(data) {
 	console.log('Someone greeted!: ' + data);
 });
 
-greeter1.greet('Tony');
+greeter1.greet('Deepak');
